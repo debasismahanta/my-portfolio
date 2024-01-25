@@ -11,6 +11,9 @@
   padding: 0px;
   margin: 0px;
 } */
+.container-fluid{
+  background-color: rgb(241, 198, 141);
+}
 
 /* nav section */
 .navbar .nav-item a {
