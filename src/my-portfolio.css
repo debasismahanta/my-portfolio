@@ -11,6 +11,9 @@
   padding: 0px;
   margin: 0px;
 } */
+body{
+  background-color: rgb(196, 196, 205);
+}
 
 /* nav section */
 .navbar .nav-item a {
